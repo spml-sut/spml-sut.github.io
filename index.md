@@ -1,5 +1,6 @@
 <center>Security and Privacy in Machine Learning</center>
-
+<center>Sharif University of Technology, Iran</center>
+<center>CE Department</center>
 <center>Spring 2023</center>
 
 
@@ -20,11 +21,11 @@ Welcome to the public page for the course on Security and Privacy in Machine Lea
 
 **Instructor**:
 
-​		**Amir Mahdi Sadeghzadeh**
-​		Office: CE-501 (DNSL)
-​		Office Hours: By appointment (through Email)
-​		Email: amsadeghzadeh@gmail.com
-​		URL: [amsadeghzadeh.github.io](amsadeghzadeh.github.io)
+    Amir Mahdi Sadeghzadeh  
+    Office: CE-501 (DNSL)  
+    Office Hours: By appointment (through Email)  
+    Email: amsadeghzadeh@gmail.com  
+    URL: [amsadeghzadeh.github.io](amsadeghzadeh.github.io)  
 
 
 
@@ -105,3 +106,8 @@ HW[HW#]-[std#] (For example HW3-400100111)
 - You may use up to 5 late days per assignment with no penalty.
 - Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
 
+| lkndvjkndfjvk | dnfvkjnbv    |   | dnvjkfv mkv |   |
+|---------------|--------------|---|-------------|---|
+|               | dnfvkjfdnvgf |   |             |   |
+|               |              |   | kdfnkjfdkjv |   |
+|               |              |   |             |   |
