@@ -106,8 +106,8 @@ HW[HW#]-[std#] (For example HW3-400100111)
 - You may use up to 5 late days per assignment with no penalty.
 - Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
 
-| lkndvjkndfjvk | dnfvkjnbv    |   | dnvjkfv mkv |   |
-|---------------|--------------|---|-------------|---|
-|               | dnfvkjfdnvgf |   |             |   |
-|               |              |   | kdfnkjfdkjv |   |
-|               |              |   |             |   |
+| # | Date  | Topic         | Content                              | Lecture | Reading                                                                                                     | HWs |
+|---|-------|---------------|--------------------------------------|---------|-------------------------------------------------------------------------------------------------------------|-----|
+| 1 | 11/17 | Course Intro. | The scope and contents of the course | Lec1    | \href{https://arxiv.org/abs/1611.03814}{{Towards the Science of Security and Privacy in Machine Learning. } |     |
+|   |       |               |                                      |         |                                                                                                             |     |
+|   |       |               |                                      |         |                                                                                                             |     |
