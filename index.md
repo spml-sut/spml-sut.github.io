@@ -5,6 +5,8 @@
 
 
 
+
+
 Welcome to the public page for the course on Security and Privacy in Machine Learning (SPML). The main objectives of the course are to introduce students to the principals of the security and privacy in machine learning. The students become familiar with the vulnerabilities of machine learning in training and inference phases and the methods to improve the robustness and privacy of machine learning models. 
 
 
@@ -112,6 +114,8 @@ HW[HW#]-[std#] (For example HW3-400100111)
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 1 | 11/17 | Course Intro.     | The scope and contents of the course       | Lec1    | [Towards the Science of Security and Privacy in Machine Learning.](https://arxiv.org/abs/1611.03814)                                                                                                                                                                           |     |
 | 2 | 11/22 | Holiday           |                                            |         |                                                                                                                                                                                                                                                                                       |     |
-| 3 | 11/24 | Machine Learning  | ML Intro., Perceptron, Logistic regression | Lec2    | \href{http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf}{ Pattern Recognition and Machine Learning Ch.1 \& Ch.4 } \\ \href{https://www.deeplearningbook.org/}{Deep Learning Ch.5} |     |
+| 3 | 11/24 | Machine Learning  | ML Intro., Perceptron, Logistic regression | Lec2    | [Pattern Recognition and Machine Learning Ch.1 \& Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf) 
+
+[Deep Learning Ch.5](https://www.deeplearningbook.org/) |     |
 | 4 | 11/29 | Holiday           |                                            |         |                                                                                                                                                                                                                                                                                       |     |
 | 5 | 12/1  | Linear Classifier | Gradient descent, Softmax Classifier       | Lec3    | \href{http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf}{ Pattern Recognition and Machine Learning Ch.1 \& Ch.4} \\ \href{https://www.deeplearningbook.org/}{Deep Learning Ch.6}  |     |
