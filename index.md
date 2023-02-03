@@ -21,11 +21,11 @@ Welcome to the public page for the course on Security and Privacy in Machine Lea
 
 **Instructor**:
 
-    Amir Mahdi Sadeghzadeh  
-    Office: CE-501 (DNSL)  
-    Office Hours: By appointment (through Email)  
-    Email: amsadeghzadeh@gmail.com  
-    URL: [amsadeghzadeh.github.io](amsadeghzadeh.github.io)  
+Amir Mahdi Sadeghzadeh  
+Office: CE-501 (DNSL)  
+Office Hours: By appointment (through Email)  
+Email: amsadeghzadeh@gmail.com  
+URL: [amsadeghzadeh.github.io](amsadeghzadeh.github.io)  
 
 
 
@@ -106,8 +106,12 @@ HW[HW#]-[std#] (For example HW3-400100111)
 - You may use up to 5 late days per assignment with no penalty.
 - Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
 
-| # | Date  | Topic         | Content                              | Lecture | Reading                                                                                                     | HWs |
-|---|-------|---------------|--------------------------------------|---------|-------------------------------------------------------------------------------------------------------------|-----|
-| 1 | 11/17 | Course Intro. | The scope and contents of the course | Lec1    | \href{https://arxiv.org/abs/1611.03814}{{Towards the Science of Security and Privacy in Machine Learning. } |     |
-|   |       |               |                                      |         |                                                                                                             |     |
-|   |       |               |                                      |         |                                                                                                             |     |
+
+
+| # | Date  | Topic             | Content                                    | Lecture | Reading                                                                                                                                                                                                                                                                               | HWs |
+|---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 1 | 11/17 | Course Intro.     | The scope and contents of the course       | Lec1    | \href{https://arxiv.org/abs/1611.03814}{{Towards the Science of Security and Privacy in Machine Learning. }                                                                                                                                                                           |     |
+| 2 | 11/22 | Holiday           |                                            |         |                                                                                                                                                                                                                                                                                       |     |
+| 3 | 11/24 | Machine Learning  | ML Intro., Perceptron, Logistic regression | Lec2    | \href{http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf}{ Pattern Recognition and Machine Learning Ch.1 \& Ch.4 } \\ \href{https://www.deeplearningbook.org/}{Deep Learning Ch.5} |     |
+| 4 | 11/29 | Holiday           |                                            |         |                                                                                                                                                                                                                                                                                       |     |
+| 5 | 12/1  | Linear Classifier | Gradient descent, Softmax Classifier       | Lec3    | \href{http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf}{ Pattern Recognition and Machine Learning Ch.1 \& Ch.4} \\ \href{https://www.deeplearningbook.org/}{Deep Learning Ch.6}  |     |
