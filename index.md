@@ -33,9 +33,9 @@ Welcome to the public page for the course on Security and Privacy in Machine Lea
 
 **Course Staff:**
 
-* Mahdi Ghaznavi (Head Course Assistant) Email: [ghaznavi.mahdi@gmail.com](ghaznavi.mahdi@gmail.com)
-* Zeinab Golgooni (Course Assistant) Email: [z.golgooni@gmail.com](z.golgooni@gmail.com)
-* Elahe Farshadfar (Course Assistant) Email: [elahefarshadfar1377@gmail.com](elahefarshadfar1377@gmail.com)
+* Mahdi Ghaznavi (Head Course Assistant) Email: [ghaznavi.mahdi@gmail.com](mailto:ghaznavi.mahdi@gmail.com)
+* Zeinab Golgooni (Course Assistant) Email: [z.golgooni@gmail.com](mailto:z.golgooni@gmail.com)
+* Elahe Farshadfar (Course Assistant) Email: [elahefarshadfar1377@gmail.com](mailto:elahefarshadfar1377@gmail.com)
 * Hamid Dashtbani (Course Assistant) Email: 
 
 
