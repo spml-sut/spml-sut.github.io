@@ -98,7 +98,7 @@ Assignments (30%), Mid-term (and Mini-exam) (20%), Papers review and presentatio
 **Homework Submission**
 
 Submit your answers in .pdf or .zip file in course page on quera website, with the following format:
-HW[HW#]-[std#] (For example HW3-400100111)
+HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-400100111)
 
 
 
