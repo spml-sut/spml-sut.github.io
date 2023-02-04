@@ -1,16 +1,10 @@
-<center>**Security and Privacy in Machine Learning**</center>
+<center><b>Security and Privacy in Machine Learning</b></center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
 <center>Spring 2023</center>
 
 
 &nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;
-
-
 
 
 Welcome to the public page for the course on Security and Privacy in Machine Learning (SPML). The main objectives of the course are to introduce students to the principals of the security and privacy in machine learning. The students become familiar with the vulnerabilities of machine learning in training and inference phases and the methods to improve the robustness and privacy of machine learning models. 
@@ -55,7 +49,7 @@ Welcome to the public page for the course on Security and Privacy in Machine Lea
 
 **Main References** 
 
-The main references for the course are many research papers in top-tier conferences and journals in computer security (SP, CCS, Usenix Security) and machine learning (NeurIPS, ICLR, ICML, CVPR, ECCV). Three following books are used for presenting background topics in machine learning and deep learning in
+The main references for the course are many research papers in top-tier conferences and journals in computer security (SP, CCS, Usenix Security, EuroSP) and machine learning (NeurIPS, ICLR, ICML, CVPR, ECCV). Three following books are used for presenting background topics in machine learning and deep learning in
 the first part of the course.
 
 -   [Christopher M. Bishop, *Pattern Recognition and Machine Learning*,
@@ -110,16 +104,15 @@ HW[HW#]-[std#] (For example HW3-400100111)
 
 **Late Policy**
 
-- All students have 14 free late days for the assignments.
-- You may use up to 5 late days per assignment with no penalty.
-- Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
+* All students have 14 free late days for the assignments.
+* You may use up to 5 late days per assignment with no penalty.
+* Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
 
 
 &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
 
 | # | Date  | Topic             | Content                                    | Lecture | Reading                                                                                                                                                                                                                                                                               | HWs |
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
