@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-Welcome to the public page for the course on Security and Privacy in Machine Learning (SPML). The main objectives of the course are to introduce students to the principals of the security and privacy in machine learning. The students become familiar with the vulnerabilities of machine learning in training and inference phases and the methods to improve the robustness and privacy of machine learning models. 
+**W**elcome to the public page for the course on Security and Privacy in Machine Learning (SPML). The main objectives of the course are to introduce students to the principals of the security and privacy in machine learning. The students become familiar with the vulnerabilities of machine learning in training and inference phases and the methods to improve the robustness and privacy of machine learning models. 
 
 
 
