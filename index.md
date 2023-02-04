@@ -32,7 +32,7 @@ Welcome to the public page for the course on Security and Privacy in Machine Lea
 &nbsp;&nbsp;&nbsp;Amir Mahdi Sadeghzadeh  
 &nbsp;&nbsp;&nbsp;Office: CE-501 (DNSL)  
 &nbsp;&nbsp;&nbsp;Office Hours: By appointment (through Email)  
-&nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh@gmail.com](mailto:amsadeghzadeh@gmail.com) 
+&nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh@gmail.com](mailto:amsadeghzadeh@gmail.com)  
 &nbsp;&nbsp;&nbsp;URL: [amsadeghzadeh.github.io](https://amsadeghzadeh.github.io)  
 
 
