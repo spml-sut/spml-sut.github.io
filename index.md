@@ -17,25 +17,25 @@
    * **Location:** CE-202 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
    * **Contact:** Announcements and all course-related questions will happen on the [Quera]() forum. 
      * All official announcements and communication will happen over Quera.
-     * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at amsadeghzadeh@gmail.com
+     * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at amsadeghzadeh_at_gmail.com
 
 
 
-**Instructor**:
+**Instructor**
 
 &nbsp;&nbsp;&nbsp;Amir Mahdi Sadeghzadeh  
 &nbsp;&nbsp;&nbsp;Office: CE-501 (DNSL)  
 &nbsp;&nbsp;&nbsp;Office Hours: By appointment (through Email)  
-&nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh@gmail.com](mailto:amsadeghzadeh@gmail.com)  
+&nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh_at_gmail.com](mailto:amsadeghzadeh_at_gmail.com)  
 &nbsp;&nbsp;&nbsp;URL: [amsadeghzadeh.github.io](https://amsadeghzadeh.github.io)  
 
 
 
-**Course Staff:**
+**Course Staff**
 
-* Mahdi Ghaznavi (Head Course Assistant) - Email: [ghaznavi.mahdi@gmail.com](mailto:ghaznavi.mahdi@gmail.com)
-* Zeinab Golgooni (Course Assistant) - Email: [z.golgooni@gmail.com](mailto:z.golgooni@gmail.com)
-* Elahe Farshadfar (Course Assistant) - Email: [elahefarshadfar1377@gmail.com](mailto:elahefarshadfar1377@gmail.com)
+* Mahdi Ghaznavi (Head Course Assistant) - Email: [ghaznavi.mahdi_at_gmail.com](mailto:ghaznavi.mahdi_at_gmail.com)
+* Zeinab Golgooni (Course Assistant) - Email: [z.golgooni_at_gmail.com](mailto:z.golgooni_at_gmail.com)
+* Elahe Farshadfar (Course Assistant) - Email: [elahefarshadfar1377_at_gmail.com](mailto:elahefarshadfar1377_at_gmail.com)
 * Hamid Dashtbani (Course Assistant) - Email: 
 
 
@@ -69,7 +69,7 @@ Assignments (30%), Mid-term (and Mini-exam) (20%), Papers review and presentatio
 
 
 
-**Course Policy:**
+**Course Policy**
 
 -   This course considers topics involving personal and public privacy
     and security. As part of this investigation we will cover
@@ -89,7 +89,7 @@ Assignments (30%), Mid-term (and Mini-exam) (20%), Papers review and presentatio
 
 
 
-**Academic Honesty:** 
+**Academic Honesty** 
 
 [Sharif CE Department Honor Code](https://wiki.ce.sharif.edu/%D8%A2%DB%8C%DB%8C%D9%86_%D9%86%D8%A7%D9%85%D9%87/%D8%A2%D8%AF%D8%A7%D8%A8_%D9%86%D8%A7%D9%85%D9%87_%D8%A7%D9%86%D8%AC%D8%A7%D9%85_%D8%AA%D9%85%D8%B1%DB%8C%D9%86_%D9%87%D8%A7%DB%8C_%D8%AF%D8%B1%D8%B3%DB%8C) (please read it carefully!)
 
