@@ -23,7 +23,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Instructor**
 
-&nbsp;&nbsp;&nbsp;Amir Mahdi Sadeghzadeh  
+&nbsp;&nbsp;&nbsp;_Amir Mahdi Sadeghzadeh_  
 &nbsp;&nbsp;&nbsp;Office: CE-501 (DNSL)  
 &nbsp;&nbsp;&nbsp;Office Hours: By appointment (through Email)  
 &nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh_at_gmail.com](mailto:amsadeghzadeh_at_gmail.com)  
@@ -33,10 +33,10 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Staff**
 
-* Mahdi Ghaznavi (Head Course Assistant) - Email: [ghaznavi.mahdi_at_gmail.com](mailto:ghaznavi.mahdi_at_gmail.com)
-* Zeinab Golgooni (Course Assistant) - Email: [z.golgooni_at_gmail.com](mailto:z.golgooni_at_gmail.com)
-* Elahe Farshadfar (Course Assistant) - Email: [elahefarshadfar1377_at_gmail.com](mailto:elahefarshadfar1377_at_gmail.com)
-* Hamid Dashtbani (Course Assistant) - Email: 
+* _Mahdi Ghaznavi_ (Head Course Assistant) - Email: [ghaznavi.mahdi_at_gmail.com](mailto:ghaznavi.mahdi_at_gmail.com)
+* _Zeinab Golgooni_ (Course Assistant) - Email: [z.golgooni_at_gmail.com](mailto:z.golgooni_at_gmail.com)
+* _Elahe Farshadfar_ (Course Assistant) - Email: [elahefarshadfar1377_at_gmail.com](mailto:elahefarshadfar1377_at_gmail.com)
+* _Hamid Dashtbani_ (Course Assistant) - Email: 
 
 
 
