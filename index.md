@@ -36,7 +36,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 * _Mahdi Ghaznavi_ (Head Course Assistant) - Email: [ghaznavi.mahdi_at_gmail.com](mailto:ghaznavi.mahdi_at_gmail.com)
 * _Zeinab Golgooni_ (Course Assistant) - Email: [z.golgooni_at_gmail.com](mailto:z.golgooni_at_gmail.com)
 * _Elahe Farshadfar_ (Course Assistant) - Email: [elahefarshadfar1377_at_gmail.com](mailto:elahefarshadfar1377_at_gmail.com)
-* _Hamid Dashtbani_ (Course Assistant) - Email: 
+* _Hamid Dashtbani_ (Course Assistant) - Email: [hamiddb77_at_gmail.com](mailto:hamiddb77@gmail.com)
 
 
 
@@ -97,8 +97,8 @@ Assignments (30%), Mid-term (and Mini-exam) (20%), Papers review and presentatio
 
 **Homework Submission**
 
-Submit your answers in .pdf or .zip file in course page on quera website, with the following format:
-HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-400100111)
+Submit your answers in .pdf or .zip file in course page on Quera website, with the following format:
+HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 
 
 
