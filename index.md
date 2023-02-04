@@ -1,8 +1,14 @@
-<center>Security and Privacy in Machine Learning</center>
+<center>**Security and Privacy in Machine Learning**</center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
 <center>Spring 2023</center>
 
+
+&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
 
 
 
