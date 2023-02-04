@@ -15,7 +15,7 @@
 
    * **Time:** Sat. & Mon. 13:30 - 15:00
    * **Location:** CE-202 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
-   * **Contact:** Announcements and all course-related questions will happen on the [Quera]() forum. 
+   * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/13164/) forum. 
      * All official announcements and communication will happen over Quera.
      * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at amsadeghzadeh_at_gmail.com
 
@@ -42,8 +42,8 @@
 
 **Course Pages** 
 
-* [spml-sut.github.io](spml-sut.github.io)
-* quera
+* [spml-sut.github.io](spml-sut.github.io) -> Course information, syllabus, and materials.
+* [Quera](https://quera.org/course/add_to_course/course/13164/) (Get the password from course staff) -> Announcements, assignments, and all course-related questions.
 
 
 
