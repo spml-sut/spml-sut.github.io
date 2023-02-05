@@ -105,8 +105,8 @@ HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 
 **Late Policy**
 
-* All students have 14 free late days for the assignments.
-* You may use up to 5 late days per assignment with no penalty.
+* All students have 21 free late days for the assignments.
+* You may use up to 7 late days per assignment with no penalty.
 * Once you have exhausted your free late days, we will deduct a late penalty of 20% per additional late day.
 
 
