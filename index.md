@@ -36,6 +36,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 * _Mahdi Ghaznavi_ (Head Course Assistant) - Email: [ghaznavi.mahdi_at_gmail.com](mailto:ghaznavi.mahdi_at_gmail.com)
 * _Zeinab Golgooni_ (Course Assistant) - Email: [z.golgooni_at_gmail.com](mailto:z.golgooni_at_gmail.com)
 * _Elahe Farshadfar_ (Course Assistant) - Email: [elahefarshadfar1377_at_gmail.com](mailto:elahefarshadfar1377_at_gmail.com)
+* _Mohammad Reza Kazemi_ (Course Assistant) - Email: [mokazemi98_at_gmail.com](mailto:mokazemi98@gmail.com)
 * _Hamid Dashtbani_ (Course Assistant) - Email: [hamiddb77_at_gmail.com](mailto:hamiddb77@gmail.com)
 
 
